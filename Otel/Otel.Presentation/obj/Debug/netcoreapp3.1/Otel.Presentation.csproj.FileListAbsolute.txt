@@ -1,0 +1,17 @@
+C:\Users\ras\Desktop\HSSABAH\Proje 12122021\Otel\Otel.Presentation\bin\Debug\netcoreapp3.1\Otel.Presentation.exe
+C:\Users\ras\Desktop\HSSABAH\Proje 12122021\Otel\Otel.Presentation\bin\Debug\netcoreapp3.1\Otel.Presentation.deps.json
+C:\Users\ras\Desktop\HSSABAH\Proje 12122021\Otel\Otel.Presentation\bin\Debug\netcoreapp3.1\Otel.Presentation.runtimeconfig.json
+C:\Users\ras\Desktop\HSSABAH\Proje 12122021\Otel\Otel.Presentation\bin\Debug\netcoreapp3.1\Otel.Presentation.runtimeconfig.dev.json
+C:\Users\ras\Desktop\HSSABAH\Proje 12122021\Otel\Otel.Presentation\bin\Debug\netcoreapp3.1\Otel.Presentation.dll
+C:\Users\ras\Desktop\HSSABAH\Proje 12122021\Otel\Otel.Presentation\bin\Debug\netcoreapp3.1\Otel.Presentation.pdb
+C:\Users\ras\Desktop\HSSABAH\Proje 12122021\Otel\Otel.Presentation\obj\Debug\netcoreapp3.1\Otel.Presentation.csproj.AssemblyReference.cache
+C:\Users\ras\Desktop\HSSABAH\Proje 12122021\Otel\Otel.Presentation\obj\Debug\netcoreapp3.1\Otel.Presentation.frmLogin.resources
+C:\Users\ras\Desktop\HSSABAH\Proje 12122021\Otel\Otel.Presentation\obj\Debug\netcoreapp3.1\Otel.Presentation.Properties.Resources.resources
+C:\Users\ras\Desktop\HSSABAH\Proje 12122021\Otel\Otel.Presentation\obj\Debug\netcoreapp3.1\Otel.Presentation.csproj.GenerateResource.cache
+C:\Users\ras\Desktop\HSSABAH\Proje 12122021\Otel\Otel.Presentation\obj\Debug\netcoreapp3.1\Otel.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ras\Desktop\HSSABAH\Proje 12122021\Otel\Otel.Presentation\obj\Debug\netcoreapp3.1\Otel.Presentation.AssemblyInfoInputs.cache
+C:\Users\ras\Desktop\HSSABAH\Proje 12122021\Otel\Otel.Presentation\obj\Debug\netcoreapp3.1\Otel.Presentation.AssemblyInfo.cs
+C:\Users\ras\Desktop\HSSABAH\Proje 12122021\Otel\Otel.Presentation\obj\Debug\netcoreapp3.1\Otel.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\ras\Desktop\HSSABAH\Proje 12122021\Otel\Otel.Presentation\obj\Debug\netcoreapp3.1\Otel.Presentation.dll
+C:\Users\ras\Desktop\HSSABAH\Proje 12122021\Otel\Otel.Presentation\obj\Debug\netcoreapp3.1\Otel.Presentation.pdb
+C:\Users\ras\Desktop\HSSABAH\Proje 12122021\Otel\Otel.Presentation\obj\Debug\netcoreapp3.1\Otel.Presentation.genruntimeconfig.cache
