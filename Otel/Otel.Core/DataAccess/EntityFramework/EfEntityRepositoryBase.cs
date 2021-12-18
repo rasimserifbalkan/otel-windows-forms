@@ -11,7 +11,7 @@ namespace Otel.Core.DataAccess.EntityFramework
     //TContext bağlanılacak database
     public class EfEntityRepositoryBase<Tablo, TContext> : IEntityRepository<Tablo>
         where Tablo : class, IEntity, new()
-        where TContext : class, DbContext, new()
+        where TContext : DbContext, new()
 
     {
         public void Add(Tablo entity)

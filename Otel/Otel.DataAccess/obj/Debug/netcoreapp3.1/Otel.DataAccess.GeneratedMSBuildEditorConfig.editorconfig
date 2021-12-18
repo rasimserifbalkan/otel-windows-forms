@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = Otel.DataAccess
+build_property.ProjectDir = C:\git-repos\otel-windows-forms\Otel\Otel.DataAccess\
