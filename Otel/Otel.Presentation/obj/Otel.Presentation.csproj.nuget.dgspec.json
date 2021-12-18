@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ras\\Desktop\\HSSABAH\\Proje 12122021\\Otel\\Otel.Presentation\\Otel.Presentation.csproj": {}
+    "C:\\git-repos\\otel-windows-forms\\Otel\\Otel.Presentation\\Otel.Presentation.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ras\\Desktop\\HSSABAH\\Proje 12122021\\Otel\\Otel.Presentation\\Otel.Presentation.csproj": {
+    "C:\\git-repos\\otel-windows-forms\\Otel\\Otel.Presentation\\Otel.Presentation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ras\\Desktop\\HSSABAH\\Proje 12122021\\Otel\\Otel.Presentation\\Otel.Presentation.csproj",
+        "projectUniqueName": "C:\\git-repos\\otel-windows-forms\\Otel\\Otel.Presentation\\Otel.Presentation.csproj",
         "projectName": "Otel.Presentation",
-        "projectPath": "C:\\Users\\ras\\Desktop\\HSSABAH\\Proje 12122021\\Otel\\Otel.Presentation\\Otel.Presentation.csproj",
+        "projectPath": "C:\\git-repos\\otel-windows-forms\\Otel\\Otel.Presentation\\Otel.Presentation.csproj",
         "packagesPath": "C:\\Users\\ras\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ras\\Desktop\\HSSABAH\\Proje 12122021\\Otel\\Otel.Presentation\\obj\\",
+        "outputPath": "C:\\git-repos\\otel-windows-forms\\Otel\\Otel.Presentation\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ras\\AppData\\Roaming\\NuGet\\NuGet.Config",

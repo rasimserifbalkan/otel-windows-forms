@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ras\\Desktop\\HSSABAH\\Proje 12122021\\Otel\\Otel.Entites\\Otel.Entites.csproj": {}
+    "C:\\git-repos\\otel-windows-forms\\Otel\\Otel.Entites\\Otel.Entites.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ras\\Desktop\\HSSABAH\\Proje 12122021\\Otel\\Otel.Core\\Otel.Core.csproj": {
+    "C:\\git-repos\\otel-windows-forms\\Otel\\Otel.Core\\Otel.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ras\\Desktop\\HSSABAH\\Proje 12122021\\Otel\\Otel.Core\\Otel.Core.csproj",
+        "projectUniqueName": "C:\\git-repos\\otel-windows-forms\\Otel\\Otel.Core\\Otel.Core.csproj",
         "projectName": "Otel.Core",
-        "projectPath": "C:\\Users\\ras\\Desktop\\HSSABAH\\Proje 12122021\\Otel\\Otel.Core\\Otel.Core.csproj",
+        "projectPath": "C:\\git-repos\\otel-windows-forms\\Otel\\Otel.Core\\Otel.Core.csproj",
         "packagesPath": "C:\\Users\\ras\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ras\\Desktop\\HSSABAH\\Proje 12122021\\Otel\\Otel.Core\\obj\\",
+        "outputPath": "C:\\git-repos\\otel-windows-forms\\Otel\\Otel.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ras\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,6 +39,12 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -58,14 +64,14 @@
         }
       }
     },
-    "C:\\Users\\ras\\Desktop\\HSSABAH\\Proje 12122021\\Otel\\Otel.Entites\\Otel.Entites.csproj": {
+    "C:\\git-repos\\otel-windows-forms\\Otel\\Otel.Entites\\Otel.Entites.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ras\\Desktop\\HSSABAH\\Proje 12122021\\Otel\\Otel.Entites\\Otel.Entites.csproj",
+        "projectUniqueName": "C:\\git-repos\\otel-windows-forms\\Otel\\Otel.Entites\\Otel.Entites.csproj",
         "projectName": "Otel.Entites",
-        "projectPath": "C:\\Users\\ras\\Desktop\\HSSABAH\\Proje 12122021\\Otel\\Otel.Entites\\Otel.Entites.csproj",
+        "projectPath": "C:\\git-repos\\otel-windows-forms\\Otel\\Otel.Entites\\Otel.Entites.csproj",
         "packagesPath": "C:\\Users\\ras\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ras\\Desktop\\HSSABAH\\Proje 12122021\\Otel\\Otel.Entites\\obj\\",
+        "outputPath": "C:\\git-repos\\otel-windows-forms\\Otel\\Otel.Entites\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ras\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -82,8 +88,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\ras\\Desktop\\HSSABAH\\Proje 12122021\\Otel\\Otel.Core\\Otel.Core.csproj": {
-                "projectPath": "C:\\Users\\ras\\Desktop\\HSSABAH\\Proje 12122021\\Otel\\Otel.Core\\Otel.Core.csproj"
+              "C:\\git-repos\\otel-windows-forms\\Otel\\Otel.Core\\Otel.Core.csproj": {
+                "projectPath": "C:\\git-repos\\otel-windows-forms\\Otel\\Otel.Core\\Otel.Core.csproj"
               }
             }
           }
