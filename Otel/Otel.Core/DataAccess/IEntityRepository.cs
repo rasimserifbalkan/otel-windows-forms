@@ -19,5 +19,7 @@ namespace Otel.Core.DataAccess
         void Update(Tablo entity);
         void Delete(Tablo entity);
 
+        bool Any(Expression<Func<Tablo, bool>> filter);
+
     }
 }
